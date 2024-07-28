@@ -16,7 +16,7 @@ I hiked the two highest peaks in Iran namely:
 
 * Alam-Kuh is the second highest summit of Iran. Located at the heart of the Alborz mountain range, only 40km south from the Caspian sea. Alam Kuh is part of the Takht-e Suleyman subrange and is at an elevation of 4 848 meters.  
 
-![Photos of my hobbies] (Images/Mountain.jpg "My hobbies")  
+![Photos of my hobbies] (Images/Mountain.jpg "Mount Alam-Kuh")  
 
 * I obtained my grade 6 in piano.
 
