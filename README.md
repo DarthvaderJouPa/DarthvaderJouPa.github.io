@@ -6,7 +6,7 @@ I am a very calm, caring person. I am 50% introvert and 50% extrovert according 
 
 I love nature and doing outdoor activities in my free time. My hobbies are to go hiking in the mountains and rock climbing.  
 
-![Photos of my hobbies](Images/Collage.jpg "My hobbies")  
+![Photos of my hobbies](https://raw.githubusercontent.com/DarthvaderJouPa/DarthvaderJouPa.github.io/main/Images/Collage.jpg "My hobbies")  
 
 ##### Personal achievements:
 
@@ -16,7 +16,7 @@ I hiked the two highest peaks in Iran namely:
 
 * Alam-Kuh is the second highest summit of Iran. Located at the heart of the Alborz mountain range, only 40km south from the Caspian sea. Alam Kuh is part of the Takht-e Suleyman subrange and is at an elevation of 4 848 meters.  
 
-![Photos of my hobbies](Images/Mountain.jpg "Mount Alam-Kuh")  
+![Photos of my hobbies](https://raw.githubusercontent.com/DarthvaderJouPa/DarthvaderJouPa.github.io/main/Images/Mountain.jpg "Mount Alam-Kuh")   
 
 * I obtained my grade 6 in piano.
 
