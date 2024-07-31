@@ -8,7 +8,7 @@ I have a deep love for nature and outdoor activities. Hiking and rock climbing a
 
 In addition to my outdoor pursuits, I’ve achieved Grade 6 in piano, which reflects my appreciation for music. My taste ranges from 1970s to 1990s hits and modern Afrikaans and English songs. When it comes to food, I’m a fan of Indian cuisine and have a soft spot for ice cream as my go-to dessert.
 
-<img src=(https://raw.githubusercontent.com/DarthvaderJouPa/DarthvaderJouPa.github.io/main/Images/Mountain.jpg) alt="Mount Alam-Kuh" width="380">   
+<img src=https://raw.githubusercontent.com/DarthvaderJouPa/DarthvaderJouPa.github.io/main/Images/Mountain.jpg alt="Mount Alam-Kuh" width="380">   
 
 My motto is: “Never be afraid of what people will think of you.” This philosophy drives me to approach challenges with confidence and resilience.
 
