@@ -4,11 +4,11 @@ Hello! I’m Hendrik Johann Schmidt, born on January 27, 2001. I’m a calm and 
 
 I have a deep love for nature and outdoor activities. Hiking and rock climbing are not just hobbies but passions that allow me to connect with the world around me. Some of my proudest achievements include hiking Iran’s highest peaks: Mount Damavand, a dormant stratovolcano standing at 5,609 meters, and Alam-Kuh, the second highest summit in Iran at 4,848 meters.
 
-<img src=Images/Collage.jpg alt="Photos of my hobbies" width="350"> <img src=Images/Adventures.jpg alt="Adventures" width="350">   
+![Photos of my hobbies](Images/Collage.jpg "My hobbies") ![Photos of my hobbies](Images/Adventures.jpg "Adventures" width="300)   
 
 In addition to my outdoor pursuits, I’ve achieved Grade 6 in piano, which reflects my appreciation for music. My taste ranges from 1970s to 1990s hits and modern Afrikaans and English songs. When it comes to food, I’m a fan of Indian cuisine and have a soft spot for ice cream as my go-to dessert.
 
-<img src=https://raw.githubusercontent.com/DarthvaderJouPa/DarthvaderJouPa.github.io/main/Images/Mountain.jpg alt="Mount Alam-Kuh" width="380">   
+![Photos of my hobbies]( Images/Mountain.jpg "Mount Alam-Kuh")  
 
 My motto is: “Never be afraid of what people will think of you.” This philosophy drives me to approach challenges with confidence and resilience.
 
