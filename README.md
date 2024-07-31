@@ -1,33 +1,26 @@
 ## *About Me*
 
-I am Hendrik Johann Schmidt. I was born on the 27th of January, 2001. 
+Hello! I’m Hendrik Johann Schmidt, born on January 27, 2001. I’m a calm and caring individual with a unique blend of introversion and extroversion. I thrive in both quiet moments of reflection and social interactions.
 
-I am a very calm, caring person. I am 50% introvert and 50% extrovert according to a test.
+I have a deep love for nature and outdoor activities. Hiking and rock climbing are not just hobbies but passions that allow me to connect with the world around me. Some of my proudest achievements include hiking Iran’s highest peaks: Mount Damavand, a dormant stratovolcano standing at 5,609 meters, and Alam-Kuh, the second highest summit in Iran at 4,848 meters.
 
-I love nature and doing outdoor activities in my free time. My hobbies are to go hiking in the mountains and rock climbing.  
+![Photos of my hobbies](Images/Collage.jpg "My hobbies")
 
-![Photos of my hobbies](https://raw.githubusercontent.com/DarthvaderJouPa/DarthvaderJouPa.github.io/main/Images/Collage.jpg "My hobbies")  
+In addition to my outdoor pursuits, I’ve achieved Grade 6 in piano, which reflects my appreciation for music. My taste ranges from 1970s to 1990s hits and modern Afrikaans and English songs. When it comes to food, I’m a fan of Indian cuisine and have a soft spot for ice cream as my go-to dessert.
 
-##### Personal achievements:
+![Photos of my hobbies]( Images/Mountain.jpg "Mount Alam-Kuh")   
 
-I hiked the two highest peaks in Iran namely:
+My motto is: “Never be afraid of what people will think of you.” This philosophy drives me to approach challenges with confidence and resilience.
 
-* Mount Damavand which is a dormant stratovolcano and is the highest peak in Iran and Western Asia, the highest volcano in Asia, and the 3rd highest volcano in the Eastern Hemisphere at an elevation of 5 609 meters.
+Academically, I’m well-equipped to excel in roles such as systems analyst and software programmer. My education has honed my attention to detail and my ability to adapt quickly. I am a hardworking and determined individual seeking to contribute to a dynamic company. With a strong motivation to achieve results and a commitment to continuous learning.
 
-* Alam-Kuh is the second highest summit of Iran. Located at the heart of the Alborz mountain range, only 40km south from the Caspian sea. Alam Kuh is part of the Takht-e Suleyman subrange and is at an elevation of 4 848 meters.  
 
-![Photos of my hobbies](https://raw.githubusercontent.com/DarthvaderJouPa/DarthvaderJouPa.github.io/main/Images/Mountain.jpg "Mount Alam-Kuh")   
+  
 
-* I obtained my grade 6 in piano.
 
-##### My favourites:
 
-  * Food: Indian cuisine  
-  * Desert:  Ice cream  
-  * Music: Anything form the 1970 - 1990's and modern Afrikaans and English songs
 
-##### My motto: 
-Never be afraid of what people will think of you.
+
 
 
 
