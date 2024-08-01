@@ -1,3 +1,8 @@
+## *My Documentation*
+
+* [CV and Cover letter](file:///C:/Users/schmi/Desktop/Hendrik%20Johann%20Schmidt%20Cover%20Letter%20and%20CV.pdf)   
+* [LinkedIn](https://www.linkedin.com/in/hendrik-schmidt-24a951285/?trk=opento_sprofile_details)
+
 ## *About Me*
 
 Hello! I’m Hendrik Johann Schmidt, born on January 27, 2001. I’m a calm and caring individual with a unique blend of introversion and extroversion. I thrive in both quiet moments of reflection and social interactions.
