@@ -1,8 +1,7 @@
 ## *My Documentation*
 
-* [CV and Cover letter](file:///C:/Users/schmi/Desktop/Hendrik%20Johann%20Schmidt%20Cover%20Letter%20and%20CV.pdf)   
+* [Cover Letter and CV](CV.pdf)
 * [LinkedIn](https://www.linkedin.com/in/hendrik-schmidt-24a951285/?trk=opento_sprofile_details)
-* [CV](CV.pdf)
 
 ## *About Me*
 
