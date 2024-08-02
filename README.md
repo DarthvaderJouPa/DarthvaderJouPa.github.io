@@ -38,8 +38,8 @@ Academically, I’m well-equipped to excel in roles such as systems analyst and 
 
 ## *My Projects*
 
-[The repository for this website](https://github.com/DarthvaderJouPa/DarthvaderJouPa.github.io)    
-[Group project repository](https://github.com/JPJvv/ApexSystem323)
+[The GitHub repository for this website](https://github.com/DarthvaderJouPa/DarthvaderJouPa.github.io)    
+[Group project GitHub repository](https://github.com/JPJvv/ApexSystem323)
 
 ## *Contact Information*
 
