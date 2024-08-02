@@ -1,8 +1,3 @@
-## *My Documentation*
-
-* [Cover Letter and CV](CV.pdf)
-* [LinkedIn](https://www.linkedin.com/in/hendrik-schmidt-24a951285/?trk=opento_sprofile_details)
-
 ## *About Me*
 
 Hello! I’m Hendrik Johann Schmidt, born on January 27, 2001. I’m a calm and caring individual with a unique blend of introversion and extroversion. I thrive in both quiet moments of reflection and social interactions.
@@ -21,15 +16,32 @@ My motto is: “Never be afraid of what people will think of you.” This philos
 
 Academically, I’m well-equipped to excel in roles such as systems analyst and software programmer. My education has honed my attention to detail and my ability to adapt quickly. I am a hardworking and determined individual seeking to contribute to a dynamic company. With a strong motivation to achieve results and a commitment to continuous learning.
 
+## *Computer Skills*
 
-  
+* MS Windows
+* HTML
+* Microsoft Office Suite – 
+      * PowerPoint, Excel, Word, Outlook, Access
+* Ticketing System (Autotask)
+* Microsoft 365 Apps admin centre
+* G Suite
+* GitHub
+* Java
+* C++
+* C#
+* Python
 
+## *My Documentation*
 
+* [Cover Letter and CV](CV.pdf)
+* [LinkedIn](https://www.linkedin.com/in/hendrik-schmidt-24a951285/?trk=opento_sprofile_details)
 
+## *My Projects*
 
+[The repository for this website](https://github.com/DarthvaderJouPa/DarthvaderJouPa.github.io)
+[Group project repository](https://github.com/JPJvv/ApexSystem323)
 
+## *Contact Information*
 
-
-
-
-
+* Email address: schmidthendrik1127@gmail.com
+* Cellphone number: +27 (0) 82 896 1266
