@@ -33,7 +33,7 @@ Academically, I’m well-equipped to excel in roles such as systems analyst and 
 
 ## *My Documentation*
 
-* [Cover Letter and CV](CV.pdf)
+* [Cover Letter and CV](CV.pdf)    
 * [LinkedIn](https://www.linkedin.com/in/hendrik-schmidt-24a951285/?trk=opento_sprofile_details)
 
 ## *My Projects*
