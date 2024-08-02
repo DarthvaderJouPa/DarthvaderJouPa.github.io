@@ -21,7 +21,7 @@ Academically, I’m well-equipped to excel in roles such as systems analyst and 
 * MS Windows
 * HTML
 * Microsoft Office Suite –     
-       PowerPoint, Excel, Word, Outlook, Access
+        * PowerPoint, Excel, Word, Outlook, Access    
 * Ticketing System (Autotask)
 * Microsoft 365 Apps admin centre
 * G Suite
