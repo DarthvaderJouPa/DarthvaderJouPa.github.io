@@ -21,15 +21,23 @@ Academically, I’m well-equipped to excel in roles such as systems analyst and 
 * MS Windows
 * HTML
 * Microsoft Office Suite –     
-        * PowerPoint, Excel, Word, Outlook, Access    
-* Ticketing System (Autotask)
+        * PowerPoint, Excel, Word, Outlook, Access, OneDrive, SharePoint    
 * Microsoft 365 Apps admin centre
-* G Suite
+* Microsoft Entra id
+* Google Suite
+* Ticketing System (Autotask)
+* Remote Monitoring (N-Central)
+* Servers
 * GitHub
 * Java
 * C++
 * C#
 * Python
+* Visual Studio Code
+* SQL Script
+* SQL Database
+* MongoDB
+* PowerShell
 
 ## *My Documentation*
 
