@@ -1,6 +1,6 @@
 ## *About Me*
 
-Hello! I’m Hendrik Johann Schmidt, born on January 27, 2001. I’m a calm and caring individual with a unique blend of introversion and extroversion. I thrive in both quiet moments of reflection and social interactions.
+I'm a naturally curious problem-solver who balances thoughtful analysis with collaborative energy. Whether I'm tackling complex technical challenges or connecting with team members, I bring both focus and adaptability to everything I do.
 
 ![Photos of my hobbies](Images/Adventures.jpg "Adventures")
 
@@ -14,7 +14,7 @@ In addition to my outdoor pursuits, I’ve achieved Grade 6 in piano, which refl
 
 My motto is: “Never be afraid of what people will think of you.” This philosophy drives me to approach challenges with confidence and resilience.
 
-Academically, I’m well-equipped to excel in roles such as systems analyst and software programmer. My education has honed my attention to detail and my ability to adapt quickly. I am a hardworking and determined individual seeking to contribute to a dynamic company. With a strong motivation to achieve results and a commitment to continuous learning.
+Academically, I’m well-equipped to excel in roles such as systems analyst and IT support. My education and work experience has honed my attention to detail and my ability to adapt quickly. I am a hardworking and determined individual seeking to contribute to a dynamic company. With a strong motivation to achieve results and a commitment to continuous learning.
 
 ## *Computer Skills*
 
